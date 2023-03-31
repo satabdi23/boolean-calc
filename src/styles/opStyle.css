@@ -1,0 +1,4 @@
+.operator {
+    display: flex;
+    flex-direction: row;
+}
